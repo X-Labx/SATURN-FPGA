@@ -1,3 +1,5 @@
+The following steps and points are outline instructions for setting up Microblaze with the Saturn board.
+
 - Setup a Ubuntu 14.01 Virtual Machine in VirtualBox and install the Xilinx Embedded version and also generate a license via the Xilinx website.
 - Install the included board files to the */ISE_DS/EDK/board/ folder so the sub-directory would be NumatoLab/ipxact/Saturn_LX45_V3/data
 - Now run xps in a new folder, setup the license in the license manager if needed.
