@@ -29,3 +29,5 @@ Testing memory region: lpddr
           16-bit test: PASSED!
            8-bit test: PASSED!
 --Memory Test Application Complete--
+
+DISCLAIMER: There are no guarantees this will work for you. It is provided as is - and for reference, learning and for your own research purposes.
