@@ -1,5 +1,7 @@
 Follow the instuctions below to boot Linux on the Saturn board.
 
+DISCLAIMER: There are no guarantees this will work for you. It is provided as is - and for reference, learning and for your own research purposes.
+
 Generate a EDK project as per the tutorial in the PDF, an example project is also included in a the HW_PROJ_EDK.zip file.
 Test the hardware by exporting to the SDK (xsdk) and building a Memory Test application. You will need to set the base address in the linker script to the DDR base address instead of BRAM, otherwise you will get a compile error.
 -In xsdk, next program device with the bit file.
